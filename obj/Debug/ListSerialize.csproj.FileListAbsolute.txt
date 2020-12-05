@@ -1,0 +1,7 @@
+C:\Users\neka\source\repos\ListSerialize\ListSerialize\obj\Debug\ListSerialize.csprojAssemblyReference.cache
+C:\Users\neka\source\repos\ListSerialize\ListSerialize\obj\Debug\ListSerialize.csproj.CoreCompileInputs.cache
+C:\Users\neka\source\repos\ListSerialize\ListSerialize\bin\Debug\ListSerialize.exe.config
+C:\Users\neka\source\repos\ListSerialize\ListSerialize\bin\Debug\ListSerialize.exe
+C:\Users\neka\source\repos\ListSerialize\ListSerialize\bin\Debug\ListSerialize.pdb
+C:\Users\neka\source\repos\ListSerialize\ListSerialize\obj\Debug\ListSerialize.exe
+C:\Users\neka\source\repos\ListSerialize\ListSerialize\obj\Debug\ListSerialize.pdb
