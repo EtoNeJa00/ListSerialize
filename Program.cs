@@ -165,8 +165,6 @@ namespace ListSerialize
                 Console.WriteLine("rand:{0} \t {1}", firstList.Get(i).Random.Data, secondList.Get(i).Random.Data);
             }
 
-            
-
             Console.ReadLine();
         }
 
